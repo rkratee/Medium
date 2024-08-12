@@ -33,7 +33,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/jkratee/blog-app.git
+git clone https://github.com/rkratee/Medium.git
 cd blog-project/frontend
 Install dependencies:
 
@@ -50,7 +50,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/jkratee/blog-app.git
+git clone https://github.com/rkratee/Medium.git
 cd blog-project/backend
 Install dependencies:
 

@@ -20,7 +20,7 @@ export const Publish = () => {
                         rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5"
                     placeholder="Title" />
                 <TextEditor onChange={(e) => {
-                        setTitle(e.target.value)
+                        setDescription(e.target.value)
                     }}/>
                 <button
                 onClick={async() => {

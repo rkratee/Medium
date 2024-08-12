@@ -19,6 +19,7 @@ Welcome to the Blog Project repository! This project is a modern blogging platfo
 React: A popular library for building user interfaces.
 Hooks: For managing state and side effects in React.
 TypeScript: For static type checking and improved development experience.
+Thailwind: Popular library for making CSS easy
 
 **Backend**
 Prisma: An ORM for interacting with the database.
